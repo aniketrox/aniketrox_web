@@ -1,0 +1,65 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+.navigation{
+	position: absolute;
+	display: flex;
+	left: -31px;
+	top: -6px;
+}
+
+.list{
+	list-style: none;
+	padding: 21px 35px;
+	font-size: 21px;
+	border: 2px solid cyan;
+	margin: 0px 15px;
+	border-radius: 80px;
+}
+
+.list:hover{
+	background-color: cyan;
+}
+
+.heading{
+	position: absolute;
+	left: 540px;
+	top: 193px;
+	font-size: 38px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.para{
+	position: absolute;
+	text-align: center;
+	font-size: 38px;
+	top: 296px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.container1{
+	position: absolute;
+	top: 35rem;
+	left: 30px;
+	border: 2px solid cyan;
+	width: 49rem;
+	height: 30rem;
+	font-size: 30px;
+	font-family: 'Dancing Script', cursive;
+	padding: 4px 15px;
+}
+
+.container2{
+	position: absolute;
+	top: 35rem;
+	right: 30px;
+	border: 5px solid cyan;
+	width: 23rem;
+	height: 30rem;
+	font-size: 30px;
+	font-family: 'Dancing Script', cursive;
+	padding: 4px 15px;
+	background: url("tony.jpg") no-repeat center 2px/cover;
+}
