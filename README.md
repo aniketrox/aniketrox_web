@@ -1,3 +1,2 @@
 # aniketrox_web
-web dev projects
-this is my first web dev. project
+My first Web Development Project
